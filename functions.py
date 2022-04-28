@@ -8,4 +8,7 @@ def average(x,y):
 def power(x,y):
 	return x**y
 
-## Denem tamamdir
+def sub(x,y):
+	return x-y
+
+## yengi bir funksiyon qoshuldi
